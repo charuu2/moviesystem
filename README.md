@@ -8,6 +8,9 @@ This project involves analyzing a movie dataset from The Movie Database (TMDb) t
 
 - **Data Analysis**: Explore and preprocess movie data from TMDb.
 - **Recommendation Algorithms**: Implement various algorithms to generate movie recommendations.
+- **Content-Based Filtering**: Recommends movies similar to those a user has liked based on movie attributes.
+- **Collaborative Filtering**: Suggests movies based on the preferences of similar users.
+- **Hybrid Approach**: Combines multiple recommendation techniques for improved accuracy.
 
 ## Dataset
 
@@ -22,4 +25,8 @@ The dataset used in this project is sourced from TMDb and includes the following
 - `popularity`: Popularity score of the movie.
 - `cast`: Main cast members of the movie.
 - `crew`: Key crew members of the movie.
+
+
+
+
 
