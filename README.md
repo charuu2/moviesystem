@@ -29,7 +29,10 @@ The dataset used in this project is sourced from TMDb and includes the following
 - `cast`: Main cast members of the movie.
 - `crew`: Key crew members of the movie.
 
-<img width="1470" alt="Screenshot 2024-10-13 at 10 56 50 PM" src="https://github.com/user-attachments/assets/bb8138f1-6f0d-4582-9785-28928b747e88">
+
+<img width="1470" alt="Screenshot 2024-10-13 at 11 27 39 PM" src="https://github.com/user-attachments/assets/4a4f664d-4fa3-4379-96a9-f6d116345efb">
+
+<img width="1470" alt="Screenshot 2024-10-13 at 11 28 09 PM" src="https://github.com/user-attachments/assets/34d52ea2-98e1-4ec9-afd4-71b1db049974">
 
 
 ## Key Requirements:
