@@ -1,4 +1,120 @@
-# Movie Recommendation System
+# Movie Recommender 🎬
+
+A user-friendly and interactive movie recommendation system built using **Streamlit** and **TMDB API**. This app helps users discover movies they'll love based on their favorite selections and also explore top-rated and trending movies.
+
+---
+
+## Features ✨
+
+- **Personalized Recommendations**: Get 5 movie recommendations based on the movie you select.
+- **Movie Posters**: Displays posters of recommended movies fetched via TMDB API.
+- **Top-Rated Movies**: Discover critically acclaimed movies loved by audiences worldwide.
+- **Trending Movies**: Catch up on the movies making waves this week.
+- **Watch Trailers**: Links to trailers for top-rated and trending movies.
+- **Filters**: Customize recommendations with genre preferences and release year range.
+
+---
+
+## How It Works 🛠️
+
+1. **Select a Movie**: Use the dropdown search bar to select your favorite movie.
+2. **Hit Recommend**: Get personalized recommendations along with posters.
+3. **Explore Movies**: Browse through the top-rated and trending movies.
+
+---
+
+## Installation 🧰
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/charuu2/movie-recommender.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd movie-recommender
+   ```
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+5. Open the app in your browser at `http://localhost:8501`.
+
+---
+
+## TMDB API Configuration 🔑
+
+1. Sign up for a TMDB account at [TMDB](https://www.themoviedb.org/).
+2. Go to your API settings and generate an API key.
+3. Replace the placeholders in the code with your TMDB API key:
+   ```python
+   api_key = 'YOUR_TMDB_API_KEY'
+   ```
+
+---
+
+## File Details 📂
+
+- `app.py`: The main application file containing the Streamlit code.
+- `movie_dict.pkl`: Pre-processed movie data dictionary.
+- `similarity.pkl`: Similarity matrix for movie recommendations.
+- `requirements.txt`: Python dependencies for the project.
+
+---
+
+## External Files 🌐
+
+Due to GitHub's file size limitations, the following files are hosted externally:
+
+1. **`similarity.pkl`**: [Download here]https://drive.google.com/drive/folders/1ISNzXPmulOyaOhP7noUn14KfZIYJ3T4N?usp=sharing
+
+---
+
+## Screenshots 📸
+
+- **Recommendation Page**:
+  ![Recommendation Screenshot](#add_screenshot_url)
+
+- **Top-Rated Movies Section**:
+  ![Top-Rated Screenshot](#add_screenshot_url)
+
+- **Trending Movies Section**:
+  ![Trending Screenshot](#add_screenshot_url)
+
+---
+
+## Built With 🛠️
+
+- **Python**: Programming language for building the app.
+- **Streamlit**: Framework for creating the interactive web app.
+- **TMDB API**: Fetching movie data, posters, and trailers.
+- **Pandas**: Data manipulation and analysis.
+
+---
+
+## Acknowledgements 🙌
+
+- Special thanks to [TMDB](https://www.themoviedb.org/) for their amazing API.
+- Powered by **Streamlit** for effortless web app development.
+
+---
+
+## About the Developer 👩‍💻
+
+Built with ❤️ by **Charu Rajput**
+
+- [GitHub Profile](https://github.com/charuu2)
+- [LinkedIn](#add_your_linkedin_profile)
+
+Feel free to ⭐ the repository if you found it useful!
+
 
 ## Problem Statement :
 
