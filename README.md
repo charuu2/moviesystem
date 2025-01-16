@@ -83,15 +83,15 @@ Due to GitHub's file size limitations, the following files are hosted externally
 ## Screenshots 📸
 
 - **Recommendation Page**:
-  ![Recommendation Screenshot] ![Image](https://github.com/user-attachments/assets/2580488d-47f8-4e81-86ec-a18c0b2bceb7)
+  ![Recommendation Screenshot] <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
 
    <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
 
 - **Top-Rated Movies Section**:
-  ![Top-Rated Screenshot] 
+  ![Top-Rated Screenshot] <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
 
 - **Trending Movies Section**:
-  ![Trending Screenshot](#add_screenshot_url)
+  ![Trending Screenshot] ![Image](https://github.com/user-attachments/assets/8432bc9e-c935-48a6-badd-1a4ac8dbe074)
 
 ---
 
@@ -104,22 +104,6 @@ Due to GitHub's file size limitations, the following files are hosted externally
 
 ---
 
-## Acknowledgements 🙌
-
-- Special thanks to [TMDB](https://www.themoviedb.org/) for their amazing API.
-- Powered by **Streamlit** for effortless web app development.
-
----
-
-## About the Developer 👩‍💻
-
-Built with ❤️ by **Charu Rajput**
-
-- [GitHub Profile](https://github.com/charuu2)
-- [LinkedIn](#add_your_linkedin_profile)
-
-Feel free to ⭐ the repository if you found it useful!
-
 
 ## Problem Statement :
 
@@ -128,7 +112,7 @@ In today’s digital entertainment landscape, users are bombarded with a wide va
 ## Objective:
 To develop a movie recommendation system using machine learning algorithms that accurately predicts and recommends movies to users based on their preferences, viewing history, and ratings. The system should be capable of handling large datasets and providing personalized suggestions for each user.
 
-## Features
+## Concepts
 
 - **Data Analysis**: Explore and preprocess movie data from TMDb.
 - **Recommendation Algorithms**: Implement various algorithms to generate movie recommendations.
@@ -214,4 +198,22 @@ A machine learning-based movie recommendation system that continuously learns an
 **Example**-If you watch a movie like Spider-Man, it will suggest related movies such as Spider-Man 2, Spider-Man 3, and others with similar features.
 
 <img width="1470" alt="Screenshot 2024-10-13 at 11 45 28 PM" src="https://github.com/user-attachments/assets/552eb361-adb7-41c8-9b15-2a2704030081">
+
+
+## Acknowledgements 🙌
+
+- Special thanks to [TMDB](https://www.themoviedb.org/) for their amazing API.
+- Powered by **Streamlit** for effortless web app development.
+
+---
+
+## About the Developer 👩‍💻
+
+Built with ❤️ by **Charu Rajput**
+
+- [GitHub Profile](https://github.com/charuu2)
+- [LinkedIn](#add_your_linkedin_profile)
+
+Feel free to ⭐ the repository if you found it useful!
+
 
