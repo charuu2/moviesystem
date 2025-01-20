@@ -83,12 +83,14 @@ Due to GitHub's file size limitations, the following files are hosted externally
 ## Screenshots 📸
 
 - **Recommendation Page**:
-  ![Recommendation Screenshot] <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
+  ![Recommendation Screenshot] ![Image](https://github.com/user-attachments/assets/1aae5c94-1dea-4e64-9c40-8e59f58e5899)
 
    <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
 
+   
+
 - **Top-Rated Movies Section**:
-  ![Top-Rated Screenshot] <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/1ba4d637-1444-437a-b0c0-89e66f263b63" />
+  ![Top-Rated Screenshot] <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/29fa3691-688d-4ada-8764-1a810072b3ea" />
 
 - **Trending Movies Section**:
   ![Trending Screenshot] ![Image](https://github.com/user-attachments/assets/8432bc9e-c935-48a6-badd-1a4ac8dbe074)
