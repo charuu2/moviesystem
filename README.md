@@ -69,17 +69,6 @@ A user-friendly and interactive movie recommendation system built using **Stream
 
 ---
 
-## External Files 🌐
-
-Due to GitHub's file size limitations, the following files are hosted externally:
-
-1. **`similarity.pkl`**: 
-2. **`tmdb_5000_credits.csv`**
-3. **`tmdb_5000_movies.csv`**
-   
-[Download here]https://drive.google.com/drive/folders/1ISNzXPmulOyaOhP7noUn14KfZIYJ3T4N?usp=sharing
----
-
 ## Screenshots 📸
 
 - **Recommendation Page**:
