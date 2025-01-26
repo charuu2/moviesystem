@@ -2,3 +2,5 @@ similarity.pkl[[:space:]]2 filter=lfs diff=lfs merge=lfs -text
 similarity.pkl filter=lfs diff=lfs merge=lfs -text
 2 filter=lfs diff=lfs merge=lfs -text
 similarity.pkl2 filter=lfs diff=lfs merge=lfs -text
+*gz filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
