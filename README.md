@@ -1,4 +1,4 @@
-# Movie Recommender 🎬
+# Movie Recommendation System 🎬
 
 A user-friendly and interactive movie recommendation system built using **Streamlit** and **TMDB API**. This app helps users discover movies they'll love based on their favorite selections and also explore top-rated and trending movies.
 
