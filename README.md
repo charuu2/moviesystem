@@ -171,7 +171,4 @@ Built with ❤️ by **Charu Rajput**
 - [LinkedIn](https://www.linkedin.com/in/charu-rajput2/)
 
 Feel free to ⭐ the repository if you found it useful!
-
 ---
-
-This version includes the updated repo name (`moviesystem`) and fixes any minor discrepancies!
